@@ -1,6 +1,8 @@
 # 英文写作必备@scientific papers
 个人所必需看的一些英文写作相关的书籍@针对research paper
 
+个人目前存在的问题逻辑组织不严谨以及有些语句比较啰嗦（建议简便一些比较好）。
+
 # 1.5星推荐的第一本书
 Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded
 
